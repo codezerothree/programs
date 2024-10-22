@@ -1,4 +1,4 @@
-## Exemplos de linha de comando 7-Zip - Todas as sintaxes.
+## Exemplos de linha de comando 7-Zip - Sintaxes
 
 A versão da ferramenta de linha de comando <b>7-Zip</b> <code>7z.exe</code>, permite que você execute comandos usando o terminal do sistema operacional.
 
@@ -44,14 +44,14 @@ Além de procurar detalhes sobre o download do <b>7-Zip</b> para PC ou para Linu
 - A letra de função <code>a</code> é usada para colocar dados nos arquivos. Este comando <code>a</code> significa "archive" ou "add". Para fazer isso com sucesso, você deve especificar o local do arquivo e os arquivos de origem. Usar o comando ficará assim na linha do terminal:
 
 <code>C:\Users\NomeDoUsuário>7z a -t7z arquivos.7z *.txt</code></br>
-<code>7-Zip 24.06 (x64) : Copyright (c) 1999-2024 Igor Pavlov : 2024-05-26</code>
-<code>Scanning the drive:</code>
-<code>60 files, 136037 bytes (133 KiB)</code>
-<code>Creating archive: arquivos.7z</code>
-<code>Add new data to archive: 60 files, 136037 bytes (133 KiB)</code>
-<code>Files read from disk: 60</code>
-<code>Archive size: 40494 bytes (40 KiB)</code>
-<code>Everything is Ok</code>
+<code>7-Zip 24.06 (x64) : Copyright (c) 1999-2024 Igor Pavlov : 2024-05-26</code></br>
+<code>Scanning the drive:</code></br>
+<code>60 files, 136037 bytes (133 KiB)</code></br>
+<code>Creating archive: arquivos.7z</code></br>
+<code>Add new data to archive: 60 files, 136037 bytes (133 KiB)</code></br>
+<code>Files read from disk: 60</code></br>
+<code>Archive size: 40494 bytes (40 KiB)</code></br>
+<code>Everything is Ok</code></br>
 <code>C:\Users\NomeDoUsuário></code>
 
 ### Excluir
