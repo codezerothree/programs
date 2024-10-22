@@ -1,3 +1,5 @@
+Exemplos de linha de comando 7-Zip
+
 # Exemplos de linha de comando 7-Zip - Todas as sintaxes.
 
 ### A versão da ferramenta de linha de comando 7-ZIP (7z.exe), permite que você execute comandos usando o terminal do sistema operacional.
