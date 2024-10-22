@@ -91,7 +91,7 @@ Neste comando, vemos as seguintes palavras/comandos:
 
 ### Lista (L)
 
-Este comando de função com letra minúscula <code>l</code> é usado para listar o conteúdo do arquivo. O comando <code>l<code> significa lista. No entanto, você pode não precisar usar esse comando com frequência. Usar o comando no terminal se parece com isso:
+Este comando de função com letra minúscula <code>l</code> é usado para listar o conteúdo do arquivo. O comando <code>l</code> significa lista. No entanto, você pode não precisar usar esse comando com frequência. Usar o comando no terminal se parece com isso:
 
 <code>C:\Usuários\NomeDoUsuário>7za l arquivos.7z</code>
 
