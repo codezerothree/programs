@@ -20,7 +20,7 @@ A versão <code>7z.exe</code> (linha de comando) funciona com Windows, enquanto 
 
 ## Exemplos de comandos para Windows
 
-O arquivo executável de linha de comando do <b>7-Zip</b> é o <code>7z.exe</code>. Você pode usar o arquivo EXE para executar comandos em arquivos. Em nossos exemplos, usaremos <code>"C:\Users\UserName"</code> como nosso diretório de usuário. Abaixo está um guia passo a passo para você começar na linha de comando:
+O arquivo executável de linha de comando do <b>7-Zip</b> é o <code>7z.exe</code>. Você pode usar o arquivo EXE para executar comandos em arquivos. Em nossos exemplos, usaremos <code>"C:\Usuários\NomeDoUsuário"</code> como nosso diretório de usuário. Abaixo está um guia passo a passo para você começar na linha de comando:
 
 > <i>Antes de prosseguir para outros comandos, uma dica útil é colocar 7z.exe no seu diretório. Isso lhe dará conveniência, já que você não terá que alterar os caminhos do ambiente.</i>
 
