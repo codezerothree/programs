@@ -39,17 +39,19 @@ Nesta seção, vamos guiá-lo pelos comandos de letras de função. Como são ap
 
 Além de procurar detalhes sobre o download do <b>7-Zip</b> para PC ou para Linux, é importante ter uma ideia sobre algum erro em arquivos. Porque a linha de comando é inútil se você não sabe como consertar o que o <b>7-Zip</b> não consegue abrir.
 
-### Arquivar e adicionar ao ZIP
+### Arquivar e criar um arquivo Zip [ 7z ]
 
-- A letra de função <code>a</code> é usada para colocar dados nos arquivos. Este comando <code>a</code> significa "arquivo" ou "add". Para fazer isso com sucesso, você deve especificar o local do arquivo e os arquivos de origem. Usar o comando ficará assim na linha do terminal:
+- A letra de função <code>a</code> é usada para colocar dados nos arquivos. Este comando <code>a</code> significa "archive" ou "add". Para fazer isso com sucesso, você deve especificar o local do arquivo e os arquivos de origem. Usar o comando ficará assim na linha do terminal:
 
 <code>C:\Users\NomeDoUsuário>7z a -t7z arquivos.7z *.txt</code></br>
-<code>7-Zip (A) 4.60 beta Copyright (c) 1999-2024 Igor Pavlov 2024-10-19</code></br>
-<code>Digitalizando</code></br>
-<code>Criando arquivos compactados.7z</code></br>
-<code>Compactando arquivoA.txt</code></br>
-<code>Compactando arquivoB.txt</code></br>
-<code>Tudo está OK</code></br>
+<code>7-Zip 24.06 (x64) : Copyright (c) 1999-2024 Igor Pavlov : 2024-05-26</code>
+<code>Scanning the drive:</code>
+<code>60 files, 136037 bytes (133 KiB)</code>
+<code>Creating archive: arquivos.7z</code>
+<code>Add new data to archive: 60 files, 136037 bytes (133 KiB)</code>
+<code>Files read from disk: 60</code>
+<code>Archive size: 40494 bytes (40 KiB)</code>
+<code>Everything is Ok</code>
 <code>C:\Users\NomeDoUsuário></code>
 
 ### Excluir
