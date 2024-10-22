@@ -26,8 +26,7 @@ O arquivo executável de linha de comando do <b>7-Zip</b> é o <code>7z.exe</cod
 
 Inicie o console do Windows e teste o programa 7z.exe usando alguns comandos:
 
-- Digite o nome do exe, 7z, para exibir os detalhes do arquivo
-
+- Digite o nome do arquivo exe. Ex.: <code>7z</code>: para exibir os detalhes do arquivo.
 - Na linha de comando, o comando e a saída padrão se parecem com isto:
 
 <code>7z [comando] [<opções>…] <nome_do_arquivo></code></br>
@@ -42,7 +41,7 @@ Além de procurar detalhes sobre o download do <b>7-Zip</b> para PC ou para Linu
 
 ### Arquivar e adicionar ao ZIP
 
-A letra de função <code>a</code> é usada para colocar dados nos arquivos. Este comando <code>a</code> significa "arquivo" ou "add". Para fazer isso com sucesso, você deve especificar o local do arquivo e os arquivos de origem. Usar o comando ficará assim na linha do terminal:
+- A letra de função <code>a</code> é usada para colocar dados nos arquivos. Este comando <code>a</code> significa "arquivo" ou "add". Para fazer isso com sucesso, você deve especificar o local do arquivo e os arquivos de origem. Usar o comando ficará assim na linha do terminal:
 
 <code>C:\Users\NomeDoUsuário>7z a -t7z arquivos.7z *.txt</code></br>
 <code>7-Zip (A) 4.60 beta Copyright (c) 1999-2024 Igor Pavlov 2024-10-19</code></br>
@@ -55,7 +54,7 @@ A letra de função <code>a</code> é usada para colocar dados nos arquivos. Est
 
 ### Excluir
 
-O comando da letra de função <code>d</code> é usado para remover um arquivo ou arquivos específicos de um arquivo. Este comando <code>d</code> significa delete. Usar o comando ficará assim na linha do terminal:
+- O comando da letra de função <code>d</code> é usado para remover um arquivo ou arquivos específicos de um arquivo. Este comando <code>d</code> significa delete. Usar o comando ficará assim na linha do terminal:
 
 <code>7z d exemplo.zip *.bak -r</code>
 
@@ -69,7 +68,7 @@ Vou descrever o comando para que você não fique confuso. O comando significa o
 
 ### Extrair e ampliar
 
-O comando da letra de função "e" é útil quando não há um arquivo substancial. O comando "e" significa extrair para descompactar ou ampliar e arquivar. Usar o comando ficará assim na linha do terminal:
+- O comando da letra de função "e" é útil quando não há um arquivo substancial. O comando "e" significa extrair para descompactar ou ampliar e arquivar. Usar o comando ficará assim na linha do terminal:
 
 <code>7z e exemplo.zip</code>
 
@@ -91,13 +90,13 @@ Neste comando, vemos as seguintes palavras/comandos:
 
 ### Lista (L)
 
-Este comando de função com letra minúscula <code>l</code> é usado para listar o conteúdo do arquivo. O comando <code>l</code> significa lista. No entanto, você pode não precisar usar esse comando com frequência. Usar o comando no terminal se parece com isso:
+- Este comando de função com letra minúscula <code>l</code> é usado para listar o conteúdo do arquivo. O comando <code>l</code> significa lista. No entanto, você pode não precisar usar esse comando com frequência. Usar o comando no terminal se parece com isso:
 
 <code>C:\Usuários\NomeDoUsuário>7za l arquivos.7z</code>
 
 ### Teste
 
-Este comando de função <code>t</code> é usado para testar a integridade de arquivos. O comando <code>t</code> significa teste. No entanto, isso é muito menos útil do que a opção <code>-t</code>. Usar o comando no terminal se parece com isso:
+- Este comando de função <code>t</code> é usado para testar a integridade de arquivos. O comando <code>t</code> significa teste. No entanto, isso é muito menos útil do que a opção <code>-t</code>. Usar o comando no terminal se parece com isso:
 
 <code>7z t exemplo.zip *doc -r</code>
 
@@ -111,7 +110,7 @@ Neste comando, vemos as seguintes palavras/comandos:
 
 ### Atualizar
 
-Este comando de letra <code>u</code> é usado para substituir arquivos antigos em seu arquivo por arquivos mais novos. O comando <code>u</code> significa update (atualização). Este comando evita a necessidade de descompactar e recompactar o arquivo inteiro. Este comando não funcionará com arquivos sólidos.
+- Este comando de letra <code>u</code> é usado para substituir arquivos antigos em seu arquivo por arquivos mais novos. O comando <code>u</code> significa update (atualização). Este comando evita a necessidade de descompactar e recompactar o arquivo inteiro. Este comando não funcionará com arquivos sólidos.
 
 Usar o comando no terminal se parece com isto:
 
@@ -126,7 +125,7 @@ Vemos as seguintes palavras/comandos:
 
 ## Descompactar um arquivo no Prompt de Comando (CMD)
 
-> <i>Há várias maneiras de usar o Prompt de Comando para descompactar um arquivo. A mais fácil é usando o Prompt de Comando.</i>
+- Há várias maneiras de usar o Prompt de Comando para descompactar um arquivo. A mais fácil é usando o Prompt de Comando.
 
 Descompactar um arquivo pode parecer uma tarefa assustadora, especialmente para aqueles que são novos no uso do prompt de comando ou do sistema operacional Windows. No entanto, com um pouco de orientação e familiaridade com alguns comandos básicos, descompactar arquivos no Prompt de Comando pode se tornar um processo simples e eficiente.
 
@@ -150,9 +149,9 @@ Concluindo... descompactar arquivos no Prompt de Comando pode parecer desafiador
 
 ## Interruptores
 
-Outro comando que vemos na Linha de Comando é o <code>switch</code>. O switch é composto de um especificador de switch e o nome do switch. O especificador é um traço <code>-</code> ou uma barra <code>/</code>. Os switches geralmente se parecem com isto:
+- Outro comando que vemos na Linha de Comando é o <code>switch</code>. O switch é composto de um especificador de switch e o nome do switch. O especificador é um traço <code>-</code> ou uma barra <code>/</code>. Os switches geralmente se parecem com isto:
 
-- Abaixo está uma lista de interruptores comuns:
+Abaixo está uma lista de interruptores comuns:
 
 |Switch|Descrição|
 -|-
