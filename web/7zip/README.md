@@ -1,14 +1,10 @@
-Exemplos de linha de comando 7-Zip
+## Exemplos de linha de comando 7-Zip - Todas as sintaxes.
 
-# Exemplos de linha de comando 7-Zip - Todas as sintaxes.
+A versão da ferramenta de linha de comando 7-ZIP (7z.exe), permite que você execute comandos usando o terminal do sistema operacional.
 
-### A versão da ferramenta de linha de comando 7-ZIP (7z.exe), permite que você execute comandos usando o terminal do sistema operacional.
-
-O 7-Zip é um programa poderoso, de código aberto, fácil de usar e que oferece suporte para a maioria dos arquivos compactados como: .7z, .ZIP, .RAR, .TAR e .GZIp, entre outros.
+O 7-Zip é um programa poderoso, de código aberto, fácil de usar e que oferece suporte para a maioria dos arquivos compactados como: .7z, .ZIP, .RAR, .TAR e .Gzip, entre outros.
 
 Essas características tornam o 7-Zip fácil de baixar e ser usado para fins pessoais ou comerciais.
-
-[ foto ]
 
 Usando a versão de linha de comando, você pode acessar todos os recursos do terminal mesmo sem uma Interface Gráfica de Usuário (GUI). Antes de mostrar mais sobre os diferentes comandos para o 7-Zip, confira a documentação oficial do 7-Zip para mais.
 
