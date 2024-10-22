@@ -16,7 +16,7 @@ O <b>7-Zip</b> pode ser usado para compactar, extrair, testar listas de execuç�
 
 A versão <code>7z.exe</code> (linha de comando) funciona com Windows, enquanto o <b>7-Zip</b> é a versão de linha de comando para Linux, Mac OS X e UNIX.
 
-> <i>O formato <code>7z</code> tem vários recursos principais que incluem arquitetura aberta, alta taxa e opções de criptografia AES – 256 seguras. Este software permite que você use qualquer método de compactação ou criptografia. O formato suporta tamanhos de arquivo de até 16000000 GB e nomes de arquivo Unicode. Mais abaixo, mostro alguns dos comandos comuns usados ​​com este software.</i>
+- O formato <code>7z</code> tem vários recursos principais que incluem arquitetura aberta, alta taxa e opções de criptografia AES – 256 seguras. Este software permite que você use qualquer método de compactação ou criptografia. O formato suporta tamanhos de arquivo de até 16000000 GB e nomes de arquivo Unicode. Mais abaixo, mostro alguns dos comandos comuns usados ​​com este software.
 
 ## Exemplos de comandos para Windows
 
