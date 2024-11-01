@@ -71,7 +71,7 @@ Vou descrever o comando para que você não fique confuso. O comando significa o
 
 ### Extrair e ampliar
 
-- O comando da letra de função "e" é útil quando não há um arquivo substancial. O comando "e" significa extrair para descompactar ou ampliar e arquivar. Usar o comando ficará assim na linha do terminal:
+- O comando da letra de função <code>e</code> é útil quando não há um arquivo substancial. O comando <code>e</code> significa extrair para descompactar ou ampliar e arquivar. Usar o comando ficará assim na linha do terminal:
 
 <code>7z e exemplo.zip</code>
 
