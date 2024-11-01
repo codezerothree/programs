@@ -1,4 +1,5 @@
 ## Exemplos de linha de comando 7-Zip - Sintaxes
+![user](https://img.shields.io/badge/por:-@codezerothree-FF00A1)
 
 A versão da ferramenta de linha de comando <b>7-Zip</b> <code>7z.exe</code>, permite que você execute comandos usando o terminal do sistema operacional.
 
