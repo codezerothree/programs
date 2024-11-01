@@ -150,7 +150,7 @@ Por exemplo, para extrair o conteúdo de um arquivo zip localizado na Área de T
 
 Concluindo... descompactar arquivos no Prompt de Comando pode parecer desafiador inicialmente. No entanto, ao se familiarizar com alguns comandos simples e entender o processo, descompactar arquivos pode se tornar um processo bem fácil e mais profissional. Embora o Windows não tenha uma função de descompactação nativa, o comando <code>expand</code> permite que os usuários extraiam sem esforço o conteúdo de arquivos zip por meio da interface de Linha de Comando. Ao seguir a sintaxe correta e inserir o comando apropriado, os indivíduos podem descompactar arquivos para o destino desejado sem a necessidade de software de terceiros, aumentando sua eficiência e produtividade.
 
-## Interruptores
+## Interruptores (Switches)
 
 - Outro comando que vemos na Linha de Comando é o <code>switch</code>. O switch é composto de um especificador de switch e o nome do switch. O especificador é um traço <code>-</code> ou uma barra <code>/</code>. Os switches geralmente se parecem com isto:
 
