@@ -30,7 +30,7 @@ Inicie o console do Windows e teste o programa 7z.exe usando alguns comandos:
 - Digite o nome do arquivo exe. Ex.: <code>7z</code>: para exibir os detalhes do arquivo.
 - Na linha de comando, o comando e a saída padrão se parecem com isto:
 
-<br><code>7z [comando] [<opções>…] <nome_do_arquivo></code>
+<code>7z [comando] [<opções>…] <nome_do_arquivo></code>
 <br><code>[<nomes_dos_arquivos>…]</code>
 <code>[<@listfiles…>]</code>
 
@@ -63,7 +63,7 @@ Além de procurar detalhes sobre o download do <b>7-Zip</b> para PC ou para Linu
 
 Vou descrever o comando para que você não fique confuso. O comando significa o seguinte:
 
-<br><code>7z</code>: usar o arquivo executável.
+<code>7z</code>: usar o arquivo executável.
 <br><code>d</code>: excluir arquivos.
 <br><code>example.zip</code>: excluir deste arquivo.
 <br><code>*.bak</code>: corresponder apenas a arquivos de extensão .bak.
@@ -77,7 +77,7 @@ Vou descrever o comando para que você não fique confuso. O comando significa o
 
 Novamente, irei descrever o comando para ajudar você a entender. Neste comando, vemos as seguintes palavras/comandos:
 
-<br><code>7z</code>: use o arquivo executável.
+<code>7z</code>: use o arquivo executável.
 <br><code>e</code>: use o comando extract (extrair).
 <code>example.zip</code>: o arquivo de origem que você está extraindo.
 
@@ -87,7 +87,7 @@ Enquanto isso, o comando de letra <code>x</code> funciona da mesma forma do coma
 
 Neste comando, vemos as seguintes palavras/comandos:
 
-<br><code>7z</code>: use o arquivo executável.
+<code>7z</code>: use o arquivo executável.
 <br><code>x</code>: use o comando extract.
 <code>example.zip</code>: o arquivo de onde você deseja extrair todos os arquivos.
 
@@ -105,7 +105,7 @@ Neste comando, vemos as seguintes palavras/comandos:
 
 Neste comando, vemos as seguintes palavras/comandos:
 
-<br><code>7z</code>: usar o arquivo executável.
+<code>7z</code>: usar o arquivo executável.
 <br><code>t</code>: testar o arquivo específico.
 <br><code>example.zip</code>: o arquivo a ser testado.
 <br><code>*.doc</code>: testar todos os arquivos doc no arquivo.
@@ -121,7 +121,7 @@ Usar o comando no terminal se parece com isto:
 
 Vemos as seguintes palavras/comandos:
 
-<br><code>7z</code>: use o arquivo executável.
+<code>7z</code>: use o arquivo executável.
 <br><code>u</code>: comando update.
 <br><code>example.zip</code>: o arquivo no qual você deseja atualizar os arquivos.
 <code>*.doc</code>: atualize apenas os arquivos doc.
