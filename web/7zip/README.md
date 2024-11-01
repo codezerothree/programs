@@ -67,7 +67,7 @@ Vou descrever o comando para que você não fique confuso. O comando significa o
 <br><code>d</code>: excluir arquivos.
 <br><code>example.zip</code>: excluir deste arquivo.
 <br><code>*.bak</code>: corresponder apenas a arquivos de extensão .bak.
-<code>-r</code>: percorrer todos os subdiretórios.
+<br><code>-r</code>: percorrer todos os subdiretórios.
 
 ### Extrair e ampliar
 
